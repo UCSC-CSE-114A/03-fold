@@ -21,7 +21,7 @@
 
 module Hw3 where
 
-import Prelude  hiding (replicate, sum, reverse)
+import Prelude hiding (replicate, sum)
 import Data.List (foldl')
 
 foldLeft :: (a -> b -> a) -> a -> [b] -> a
@@ -159,7 +159,7 @@ bigAdd :: BigInt -> BigInt -> BigInt
 bigAdd l1 l2     = removeZero res
   where
     (l1', l2')   = padZero l1 l2
-    (_  , res)   = foldLeft f base args
+    res          = foldLeft f base args
     f a x        = error "TBD:bigAdd:f"
     base         = error "TBD:bigAdd:base"
     args         = error "TBD:bigAdd:args"
@@ -173,7 +173,7 @@ bigAdd l1 l2     = removeZero res
 -- [8,9,9,9,1]
 
 mulByDigit :: Int -> BigInt -> BigInt
-mulByDigit i l = error "TBD:mulByDigit"
+mulByDigit i n = error "TBD:mulByDigit"
 
 --------------------------------------------------------------------------------
 -- | `bigMul n1 n2` returns the `BigInt` representing the product of `n1` and `n2`.
@@ -182,7 +182,7 @@ mulByDigit i l = error "TBD:mulByDigit"
 -- [9,9,9,8,0,0,0,1]
 --
 -- >>> bigMul [9,9,9,9,9] [9,9,9,9,9]
--- [9,9,9,9,8,0,0,0,0,1
+-- [9,9,9,9,8,0,0,0,0,1]
 
 bigMul :: BigInt -> BigInt -> BigInt
 bigMul l1 l2 = res

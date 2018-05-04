@@ -259,7 +259,7 @@ which takes two lists: `[x1,...,xn]` `[y1,...,ym]` and
 adds zeros in front of the _shorter_ list to make the
 list lengths equal.
 
-Your implementation should *not** be recursive.
+Your implementation should **not** be recursive.
 
 You should get the following behavior:
 

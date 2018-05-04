@@ -11,7 +11,7 @@ you've had enough, **FOLD**.
 
 The assignment is in the files:
 
-1. [src/Hw3.hs](/src/Hw0.hs) has skeleton functions with
+1. [src/Hw3.hs](/src/Hw3.hs) has skeleton functions with
    missing bodies that you will fill in,
 2. [tests/Test.hs](/tests/Test.hs) has some sample tests,
    and testing code that you will use to check your

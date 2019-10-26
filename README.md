@@ -1,5 +1,6 @@
 # Homework 3: All about Fold (160 points)
 
+## Due by Wednesday 11/06 11:59pm
 
 ## Overview
 

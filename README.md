@@ -31,7 +31,7 @@ Most of the points, will be awarded automatically, by
 **evaluating your functions against a given test suite**.
 
 [Tests.hs](/tests/Test.hs) contains a very small suite
-of tests which gives you a flavor of of these tests.
+of tests which gives you a flavor of these tests.
 When you run
 
 ```shell

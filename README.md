@@ -71,7 +71,8 @@ To submit your code, just follow these steps:
 	git commit -m "Commit Message"
 3. Push your changes to your git repository:
 	git push origin master
-4. Upload your latest commit ID in the comment box on canvas.
+
+We will grade your assignment based on the latest state of your repository prior to the due date. Make sure to push your changes to your repo!.
 
 ## Problem 1: Warm-Up
 

@@ -1,4 +1,4 @@
-{- | CSE 130: All about fold.
+{- | CSE 116: All about fold.
 
      For this assignment, you may use the following library functions:
 

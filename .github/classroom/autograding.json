@@ -1,0 +1,284 @@
+{
+  "tests": [
+    {
+      "name": "sqSum 1",
+      "run": "stack test --allow-different-user --ta '--pattern \"sqSum 1\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5.0
+    },
+    {
+      "name": "sqSum 2",
+      "run": "stack test --allow-different-user --ta '--pattern \"sqSum 2\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5.0
+    },
+    {
+      "name": "sqSum 3",
+      "run": "stack test --allow-different-user --ta '--pattern \"sqSum 3\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5.0
+    },
+    {
+      "name": "pipe 1",
+      "run": "stack test --allow-different-user --ta '--pattern \"pipe 1\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10.0
+    },
+    {
+      "name": "pipe 2",
+      "run": "stack test --allow-different-user --ta '--pattern \"pipe 2\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10.0
+    },
+    {
+      "name": "pipe 3",
+      "run": "stack test --allow-different-user --ta '--pattern \"pipe 3\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10.0
+    },
+    {
+      "name": "sepConcat 1",
+      "run": "stack test --allow-different-user --ta '--pattern \"sepConcat 1\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5.0
+    },
+    {
+      "name": "sepConcat 2",
+      "run": "stack test --allow-different-user --ta '--pattern \"sepConcat 2\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5.0
+    },
+    {
+      "name": "sepConcat 3",
+      "run": "stack test --allow-different-user --ta '--pattern \"sepConcat 3\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5.0
+    },
+    {
+      "name": "sepConcat 4",
+      "run": "stack test --allow-different-user --ta '--pattern \"sepConcat 4\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5.0
+    },
+    {
+      "name": "stringOfList 1",
+      "run": "stack test --allow-different-user --ta '--pattern \"stringOfList 1\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 3.33
+    },
+    {
+      "name": "stringOfList 2",
+      "run": "stack test --allow-different-user --ta '--pattern \"stringOfList 2\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 3.33
+    },
+    {
+      "name": "stringOfList 3",
+      "run": "stack test --allow-different-user --ta '--pattern \"stringOfList 3\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 3.33
+    },
+    {
+      "name": "clone 1",
+      "run": "stack test --allow-different-user --ta '--pattern \"clone 1\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5.0
+    },
+    {
+      "name": "clone 2",
+      "run": "stack test --allow-different-user --ta '--pattern \"clone 2\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5.0
+    },
+    {
+      "name": "padzero 1",
+      "run": "stack test --allow-different-user --ta '--pattern \"padzero 1\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2.5
+    },
+    {
+      "name": "padzero 2",
+      "run": "stack test --allow-different-user --ta '--pattern \"padzero 2\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2.5
+    },
+    {
+      "name": "removeZero 1",
+      "run": "stack test --allow-different-user --ta '--pattern \"removeZero 1\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 3.33
+    },
+    {
+      "name": "removeZero 2",
+      "run": "stack test --allow-different-user --ta '--pattern \"removeZero 2\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 3.33
+    },
+    {
+      "name": "removeZero 3",
+      "run": "stack test --allow-different-user --ta '--pattern \"removeZero 3\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 3.33
+    },
+    {
+      "name": "bigAdd 1",
+      "run": "stack test --allow-different-user --ta '--pattern \"bigAdd 1\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 8.33
+    },
+    {
+      "name": "bigAdd 2",
+      "run": "stack test --allow-different-user --ta '--pattern \"bigAdd 2\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 8.33
+    },
+    {
+      "name": "bigAdd 3",
+      "run": "stack test --allow-different-user --ta '--pattern \"bigAdd 3\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 8.33
+    },
+    {
+      "name": "mulByDigit 1",
+      "run": "stack test --allow-different-user --ta '--pattern \"mulByDigit 1\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15.0
+    },
+    {
+      "name": "bigMul 1",
+      "run": "stack test --allow-different-user --ta '--pattern \"bigMul 1\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5.0
+    },
+    {
+      "name": "bigMul 2",
+      "run": "stack test --allow-different-user --ta '--pattern \"bigMul 2\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5.0
+    },
+    {
+      "name": "bigMul 3",
+      "run": "stack test --allow-different-user --ta '--pattern \"bigMul 3\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5.0
+    },
+    {
+      "name": "bigMul 4",
+      "run": "stack test --allow-different-user --ta '--pattern \"bigMul 4\"'",
+      "setup": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5.0
+    }
+  ]
+}

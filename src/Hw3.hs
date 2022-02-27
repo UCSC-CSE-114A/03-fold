@@ -167,7 +167,7 @@ bigAdd l1 l2     = removeZero res
 
 --------------------------------------------------------------------------------
 -- | `mulByDigit i n` returns the result of multiplying
---   the digit `i` (between 0..9) with `BigInt` `n`.
+--   the digit `i` with `BigInt` `n`.
 --
 -- >>> mulByDigit 9 [9,9,9,9]
 -- [8,9,9,9,1]

@@ -37,7 +37,7 @@ unit sc = testGroup "Unit 2" [
   scoreTest(uncurry bigAdd,  ([9,9,9,9],[9,9,9]), [1,0,9,9,8],10, "bigAdd 2"),
   scoreTest(uncurry bigAdd,  ([1,0,0],[1]), [1,0,1],5, "bigAdd 3"),
 
-  scoreTest(uncurry mulByDigit,  (9,[9,9,9,9]), [8,9,9,9,1],15, "mulByDigit 1"),
+  scoreTest(uncurry mulByInt,  (9,[9,9,9,9]), [8,9,9,9,1],15, "mulByInt 1"),
 
   scoreTest(uncurry bigMul,  ([9,9,9,9],[9,9,9,9]), [9,9,9,8,0,0,0,1],5, "bigMul 1"),
   scoreTest(uncurry bigMul,  ([9,9,9,9,9],[9,9,9,9,9]), [9,9,9,9,8,0,0,0,0,1],5,"bigMul 2"),

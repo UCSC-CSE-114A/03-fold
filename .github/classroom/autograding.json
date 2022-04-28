@@ -231,8 +231,8 @@
       "points": 8.34
     },
     {
-      "name": "mulByDigit 1",
-      "run": "stack test --allow-different-user --ta '--pattern \"mulByDigit 1\"'",
+      "name": "mulByInt 1",
+      "run": "stack test --allow-different-user --ta '--pattern \"mulByInt 1\"'",
       "setup": "",
       "input": "",
       "output": "",

@@ -166,14 +166,14 @@ bigAdd l1 l2     = removeZero res
 
 
 --------------------------------------------------------------------------------
--- | `mulByDigit i n` returns the result of multiplying
---   the digit `i` with `BigInt` `n`.
+-- | `mulByInt i n` returns the result of multiplying
+--   the int `i` with `BigInt` `n`.
 --
--- >>> mulByDigit 9 [9,9,9,9]
+-- >>> mulByInt 9 [9,9,9,9]
 -- [8,9,9,9,1]
 
-mulByDigit :: Int -> BigInt -> BigInt
-mulByDigit i n = error "TBD:mulByDigit"
+mulByInt :: Int -> BigInt -> BigInt
+mulByInt i n = error "TBD:mulByInt"
 
 --------------------------------------------------------------------------------
 -- | `bigMul n1 n2` returns the `BigInt` representing the product of `n1` and `n2`.
